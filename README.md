@@ -1,0 +1,1 @@
+The code provided is for the paper: The Economic and Emission Implications of Global Dietary Transitions. It was developed in MATLAB to assess the economic and GHG impacts of current dietary patterns and various dietary transition scenarios. For any question, please contact li.yingzhu@zju.edu.cn.
